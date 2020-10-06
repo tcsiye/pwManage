@@ -10,7 +10,7 @@
   "author": "tcsiye",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.1.1",
+    "electron": "^8.5.1",
     "trtc-electron-sdk": "^7.0.146"
   }
 }
